@@ -1,0 +1,6 @@
+com\example\demo\ConsumerController.class
+com\example\demo\DemoApplication.class
+com\example\demo\ProviderFeignClient.class
+com\example\demo\HttpClientConfig.class
+com\example\demo\GreetingResponse.class
+com\example\demo\ProviderController.class
